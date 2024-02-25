@@ -1,8 +1,8 @@
 # simple, reusable, extensible
-`- powershell shell script
-`- json template/settings file
-`- cli menu with display of template choices
-`- settings menu with options
+- powershell shell script
+- json template/settings file
+- cli menu with display of template choices
+- settings menu with options
 
 create an item list loaded from a list of templates in a json file in the form of an array under a key. loop over the items in the array using a processing function.
 	every item will be either be in the form of a hashmap or an item, and will be either a file, a folder, or contents.
