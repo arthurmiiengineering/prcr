@@ -1,0 +1,132 @@
+[
+	{
+		"name": "backlog",
+		"type": "folder",
+		"contents": [
+			{
+				"name": "Q1",
+				"type": "folder",
+				"contents": ""
+			},
+			{
+				"name": "Q2",
+				"type": "folder",
+				"contents": ""
+			},
+			{
+				"name": "Q3",
+				"type": "folder",
+				"contents": ""
+			},
+			{
+				"name": "Q4",
+				"type": "folder",
+				"contents": ""
+			}
+		]
+	},
+	{
+		"name": "enqueued",
+		"type": "folder",
+		"contents": [
+			{
+				"name": "Q1",
+				"type": "folder",
+				"contents": ""
+			},
+			{
+				"name": "Q2",
+				"type": "folder",
+				"contents": ""
+			},
+			{
+				"name": "Q3",
+				"type": "folder",
+				"contents": ""
+			},
+			{
+				"name": "Q4",
+				"type": "folder",
+				"contents": ""
+			}
+		]
+	},
+	{
+		"name": "in-progress",
+		"type": "folder",
+		"contents": [
+			{
+				"name": "Q1",
+				"type": "folder",
+				"contents": ""
+			},
+			{
+				"name": "Q2",
+				"type": "folder",
+				"contents": ""
+			},
+			{
+				"name": "Q3",
+				"type": "folder",
+				"contents": ""
+			},
+			{
+				"name": "Q4",
+				"type": "folder",
+				"contents": ""
+			}
+		]
+	},
+	{
+		"name": "waiting",
+		"type": "folder",
+		"contents": [
+			{
+				"name": "Q1",
+				"type": "folder",
+				"contents": ""
+			},
+			{
+				"name": "Q2",
+				"type": "folder",
+				"contents": ""
+			},
+			{
+				"name": "Q3",
+				"type": "folder",
+				"contents": ""
+			},
+			{
+				"name": "Q4",
+				"type": "folder",
+				"contents": ""
+			}
+		]
+	},
+	{
+		"name": "archive",
+		"type": "folder",
+		"contents": [
+			{
+				"name": "Q1",
+				"type": "folder",
+				"contents": ""
+			},
+			{
+				"name": "Q2",
+				"type": "folder",
+				"contents": ""
+			},
+			{
+				"name": "Q3",
+				"type": "folder",
+				"contents": ""
+			},
+			{
+				"name": "Q4",
+				"type": "folder",
+				"contents": ""
+			}
+		]
+	}
+]

@@ -1,0 +1,23 @@
+[
+	{
+		"name": "docs",
+		"type": "folder",
+		"contents": [
+			{
+				"name": "getting_started.md",
+				"type": "file",
+				"contents": ""
+			}
+		]
+	},
+	{
+		"name": "src",
+		"type": "folder",
+		"contents": []
+	},
+	{
+		"name": "README.md",
+		"type": "file",
+		"contents": ""
+	}
+]
